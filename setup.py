@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="odoo-session-redis",
-    version="17.0.1.0.0",
+    version="18.0.1.0.0",
     description="Store Odoo web sessions in Redis",
     long_description=open("README.rst").read(),
     long_description_content_type="text/x-rst",
