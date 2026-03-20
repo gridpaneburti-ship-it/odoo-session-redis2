@@ -1,0 +1,5 @@
+redis
+pysftp==0.2.9
+paramiko<4.0.0
+py3o.formats
+py3o.template
